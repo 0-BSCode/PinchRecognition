@@ -5,7 +5,7 @@
              x:Class="PinchRecognition.MainPage">
     <Grid>
         <local:PinchToZoomContainer>
-            <Image Source="attack_on_titan.jpg" />
+            <Image Source="the_boys.webp" />
         </local:PinchToZoomContainer>
     </Grid>
 </ContentPage>

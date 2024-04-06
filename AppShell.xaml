@@ -8,7 +8,7 @@
     Title="PinchRecognition">
 
     <ShellContent
-        Title="Home"
+        Title="Pinch Recognizer"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
